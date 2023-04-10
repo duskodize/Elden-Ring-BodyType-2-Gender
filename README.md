@@ -8,7 +8,7 @@ This mod replaces body types A and B in the character creation menu with Male an
 
 
 **UXM:**
-Unpack and patch the game with UXM then replace the files and play the game offline to avoid potential bans.
+Unpack and patch the game with UXM then replace the files.
 
 
 **ModEngine2:**
